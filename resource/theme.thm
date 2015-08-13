@@ -1,0 +1,6 @@
+{
+	"skins":
+	{
+		"egret.gui.Button":"skins.components.ButtonSkin"
+	}
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="800" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	
+	<e:Button label="按钮2" skinName="skins.components.PlayButtonSkin" x="64" y="221"/>
+</e:Skin>
